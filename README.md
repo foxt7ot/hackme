@@ -1,2 +1,3 @@
 #Ultimate logout
-The one and only ultimate tool to logout at an instant
+
+Ultimate tool to logout at an instant
